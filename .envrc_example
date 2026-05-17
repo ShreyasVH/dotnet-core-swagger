@@ -2,7 +2,3 @@ export PORT=
 
 # dotnet core 10.0.203 path
 export PATH=
-
-#dotnet tools path
-export PATH=
-export DOTNET_ROOT=
