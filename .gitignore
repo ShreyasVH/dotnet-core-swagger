@@ -5,4 +5,5 @@ obj
 publish
 Properties
 compile.log
-server.logupgradeLog.txt
+server.log
+upgradeLog.txt
